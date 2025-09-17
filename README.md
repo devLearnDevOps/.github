@@ -6,7 +6,7 @@ Esta compañia esta diseñada para crear un proceso de aprendizaje para todo Ing
 <img src="https://github.com/devLearnDevOps/.github/blob/main/DevOps.jpg" width="380" alt="Centered image" style="display: block; margin: 0 auto;">
 
 <p align="center">
-  <img src="https://github.com/devLearnDevOps/.github/blob/main/DevOps.jpg" />
+  <img src="https://github.com/devLearnDevOps/.github/blob/main/DevOps.jpg" width="380"/>
 </p>
 
 ## DevOps Basic
