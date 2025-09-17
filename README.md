@@ -5,7 +5,7 @@ Esta compañia esta diseñada para crear un proceso de aprendizaje para todo Ing
 
 ## DevOps Basic
 
-((https://github.com/devLearnDevOps/.github/blob/main/DevOps.jpg) "a title")
+![Alt text](https://github.com/devLearnDevOps/.github/blob/main/DevOps.jpg "a title")
 
 ### 1. Fundamentos Esenciales (La Base de Todo)
 Antes de saltar a las herramientas, necesitas una base sólida.
