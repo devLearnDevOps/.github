@@ -3,9 +3,10 @@
 
 Esta compañia esta diseñada para crear un proceso de aprendizaje para todo Ingeniero DevOps, aqui se va a encontrar con un path de aprendizaje desde Nivel Basic hasta Expert, teniendo en cuenta cada una de las ramas fundamentals del curso. 
 
-## DevOps Basic
+<img src="https://github.com/devLearnDevOps/.github/blob/main/DevOps.jpg" width="400">
+![Alt text]( "a title")
 
-![Alt text](https://github.com/devLearnDevOps/.github/blob/main/DevOps.jpg "a title")
+## DevOps Basic
 
 ### 1. Fundamentos Esenciales (La Base de Todo)
 Antes de saltar a las herramientas, necesitas una base sólida.
