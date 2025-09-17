@@ -5,6 +5,8 @@ Esta compañia esta diseñada para crear un proceso de aprendizaje para todo Ing
 
 ## DevOps Basic
 
+(https://github.com/andresparrav/docker/blob/main/docker1.png "a title")
+
 ### 1. Fundamentos Esenciales (La Base de Todo)
 Antes de saltar a las herramientas, necesitas una base sólida.
 
