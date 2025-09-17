@@ -3,9 +3,9 @@
 
 Esta compañia esta diseñada para crear un proceso de aprendizaje para todo Ingeniero DevOps, aqui se va a encontrar con un path de aprendizaje desde Nivel Basic hasta Expert, teniendo en cuenta cada una de las ramas fundamentals del curso. 
 
-<img src="https://github.com/devLearnDevOps/.github/blob/main/DevOps.jpg" width="300" alt="Centered image" style="text-align: center;">
+<img src="https://github.com/devLearnDevOps/.github/blob/main/DevOps.jpg" width="350" alt="Centered image" style="display: block; margin: 0 auto;">
 <div style="text-align: center;">
-  <img src="" alt="Centered image" style="display: block; margin: 0 auto;">
+  <img src="" alt="Centered image" >
 </div>
 
 ## DevOps Basic
